@@ -1,0 +1,9 @@
+// 1.20.1	2024-08-25T21:29:45.6849187	Block States: dtalexsmobs
+7bed617459e356d3aa79330e242aca52b8b5e343 assets/dtalexsmobs/blockstates/banana_branch.json
+cc779ba92aa3e69c24ed130bd6127cd14f56aa21 assets/dtalexsmobs/blockstates/banana_leaves.json
+5afb378555ca2881cbd3be8d9568d270aa9d0c6d assets/dtalexsmobs/blockstates/banana_sapling.json
+b501cdf4d823a839cb321bc083c32cf985943cd3 assets/dtalexsmobs/models/block/banana_branch.json
+505df002ceaf3c75c53e374285323c72f60b61a5 assets/dtalexsmobs/models/block/palm_leaves/banana_core_bottom.json
+c1e01acdc36da9180c4515b30fc956c668a507a0 assets/dtalexsmobs/models/block/palm_leaves/banana_core_top.json
+0a39af395ed33e2abff2ef337faa3868ce7e13b3 assets/dtalexsmobs/models/block/palm_leaves/banana_frond.json
+62beaa82e8dcb5cbc3652ef27ac4bd8138abce43 assets/dtalexsmobs/models/block/saplings/banana.json

@@ -1,0 +1,6 @@
+// 1.20.1	2024-08-25T21:29:45.6861442	Loot Tables
+98e6d96e95c355388896bcc96194f0c6206a08ac data/dtalexsmobs/loot_tables/blocks/banana.json
+75ef50ea36fa307a68d4cf11c58936542fad6d14 data/dtalexsmobs/loot_tables/blocks/banana_leaves.json
+ebc9b209defec9857c2a723bb897d61ea6c29878 data/dtalexsmobs/loot_tables/trees/branches/banana.json
+48ca67406c35f0640cccc147448b4f021071a009 data/dtalexsmobs/loot_tables/trees/leaves/banana.json
+e11d1bbfb66a9dc3c074f4fb954fa6b382c64926 data/dtalexsmobs/loot_tables/trees/voluntary/banana.json

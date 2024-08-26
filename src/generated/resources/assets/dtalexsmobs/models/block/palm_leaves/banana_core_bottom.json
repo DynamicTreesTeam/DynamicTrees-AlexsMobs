@@ -1,0 +1,6 @@
+{
+  "parent": "dtalexsmobs:block/smartmodel/banana_core_bottom",
+  "textures": {
+    "core_bottom": "dtalexsmobs:block/banana_base"
+  }
+}
